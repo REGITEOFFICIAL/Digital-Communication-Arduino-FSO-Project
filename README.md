@@ -18,10 +18,6 @@ Time-synced, LSB-reconstructed, and hardware-encrypted. We didn't just transfer 
 
 ---
 
-On YouTube :- https://youtu.be/xCA_Jc2crYo?si=7SA04mJBuKOCwYf5
-
----
-
 ### 🛠️ HARDWARE SETUP
 
 * **Microcontrollers:** 1x Arduino UNO & 1x ESP32
@@ -117,3 +113,10 @@ The Receiver captures light fluctuations through a Photoresistor (LDR), processe
 * **Dot Duration:** `120ms`
 * **Dash Duration:** `360ms` (`unit * 3`)
 * **LDR Sampling Threshold:** `>= 700` (Adjustable depending on room lighting)
+
+
+---
+
+### On YouTube :- https://youtu.be/xCA_Jc2crYo?si=7SA04mJBuKOCwYf5
+
+---
