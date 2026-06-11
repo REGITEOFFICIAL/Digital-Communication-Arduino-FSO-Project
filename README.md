@@ -18,6 +18,10 @@ Time-synced, LSB-reconstructed, and hardware-encrypted. We didn't just transfer 
 
 ---
 
+On YouTube :- https://youtu.be/xCA_Jc2crYo?si=7SA04mJBuKOCwYf5
+
+---
+
 ### 🛠️ HARDWARE SETUP
 
 * **Microcontrollers:** 1x Arduino UNO & 1x ESP32
